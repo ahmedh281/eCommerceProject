@@ -7,5 +7,5 @@ Console.WriteLine(NewWelcomeMessage());
 
 string NewWelcomeMessage()
 {
-    return "Hello Message";
+    return "Hello Message from website";
 }
